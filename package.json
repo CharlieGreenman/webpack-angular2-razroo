@@ -76,9 +76,13 @@
     "http-server": "^0.9.0",
     "ie-shim": "^0.1.0",
     "rxjs": "^5.0.0-rc.1",
+    "@ngrx/core": "1.2.0",
+    "@ngrx/effects": "2.0.0",
+    "@ngrx/store": "2.2.1",
     "zone.js": "~0.6.17"
   },
   "devDependencies": {
+    "@ngrx/store-devtools": "~3.1.0",
     "@types/hammerjs": "^2.0.33",
     "@types/jasmine": "^2.2.34",
     "@types/node": "^6.0.38",
